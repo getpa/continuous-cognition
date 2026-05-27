@@ -1,0 +1,2 @@
+# Minimal prototype dependencies
+# (stdlib-only runtime currently)
